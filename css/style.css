@@ -1,0 +1,146 @@
+*{
+	margin:0;
+	padding:0;
+}
+header{
+    width: 90%;
+    margin: auto;
+    margin-top: 40px;
+}
+.logo{
+    width: 20%;
+    float: left;
+}
+.menu{
+    width: 70%;
+    float: right;
+}
+.menu{}
+.menu ul{
+    list-style: none;
+}
+.menu ul li{
+    float: right;
+    margin-left: 120px;
+}
+.menu ul li a{
+    text-decoration: none;
+    text-transform:  uppercase;
+    color: gray;
+}
+.banner{
+	width:90%;
+	margin:auto;
+}
+.banner img{
+	width:100%;
+}
+.photodairy-wrapper{
+	width:80%;
+	margin:auto;
+	margin-top: 50px;
+}
+.photodairy-wrapper  h4{
+    text-transform:  uppercase;
+    font-size: 14px;
+    color: gray;
+    margin-bottom:  15px;
+}
+.photodairy-wrapper h1{
+    color: gray;
+    margin-bottom: 20px;
+}
+.photodairy-wrapper p{
+    color: gray;
+    line-height: 18px;
+    margin-bottom: 30px;
+}
+.service-wrapper{
+	width: 80%;
+	margin:auto;
+	display:flex;
+	justify-content:space-between;
+}
+.service-1{
+	width:45%;
+	margin-top: 70px;
+	margin-bottom: 50px;
+}
+.service-1 img{
+	
+width: 100%;
+}
+.service-1 h4{
+    text-transform: uppercase;
+    font-size: 14px;
+    color: gray;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.service-1 h1{
+    color: gray;
+}
+.service-1 p{
+    color: gray;
+    line-height: 18px;
+}
+.newslatter{
+    background-color:  #ddd;
+    height: 250px;
+}
+.news-content{
+    width: 40%;
+    margin: auto;
+    padding-top: 51px;
+    margin-left: 531px;
+}
+.news-content h1{
+    color: gray;
+    padding-bottom: 54px;
+}
+.news-content input{
+    border: none;
+    background-color: #ddd;
+    border-bottom:  2px solid gray;
+    width: 360px;
+    outline: none;
+    height: 41px;
+}
+
+footer{
+	background-color: #ddd;
+	height:100px;
+}
+.footer-wrapper{
+	width:80%;
+	margin:auto;
+	display: flex;
+	justify-content: space-between;
+	padding-top: 40px;
+}
+.terms{
+    width: 30%;
+}
+.terms ul{
+    list-style:  none;
+}
+.terms ul li{
+    float: left;
+    margin-right: 20px;
+}
+.social-icon{
+    width: 40%;
+}
+.social-icon ul{
+    float: right;
+}
+.social-icon ul li{
+    list-style: none;
+    float: left;
+    margin-left: 32px;
+    color: gray;
+}
+.social-icon ul li a{}
+.social-icon ul li a i{
+    color: gray;
+}
